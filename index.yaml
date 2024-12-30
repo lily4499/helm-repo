@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  node-app:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-12-30T00:54:25.436319912-05:00"
+    description: A Helm chart for Node.js application
+    digest: f9e6d8df640415f93fbcef88aafc52a9309d25ccf8b80c948b0518eb9e985e7c
+    name: node-app
+    urls:
+    - https://lily4499.github.io/helm-repo/node-app-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-12-30T00:54:25.436039189-05:00"
